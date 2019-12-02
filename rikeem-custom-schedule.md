@@ -31,6 +31,7 @@
 - installing ipython with app-get in ubuntu
 - installing ipython 3 on any operating system using conda
 - .bashrc for anaconda
+- htop (resource monitor)
 ### data cleaning
 - find an interesting table of data in html from wikipedia or elsewhere
 - use pd.read_html to load your table of data into a dataframe
